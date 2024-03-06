@@ -1,0 +1,3 @@
+#!/bin/bash
+
+Rscript prep_trial_data.R >& prep_trial_data.log
